@@ -1,17 +1,31 @@
-This is Car Finder Web App by Next js
+# 🚗 Car Finder Web App
 
-It uses the free mock API provided by freetestapi.com
+A sleek and simple car listing app built with **Next.js**. Easily browse cars, filter by multiple criteria, and add favorites to your cart — all stored locally on your device.
 
-You can see the car cards, with various details. 
-you can also filter on the basis of price, make, model, fuelType, horsepower. 
-plus there is a cart, which stores the cart in local storage
+### 🔗 Live Demo  
+*(Optional — Add a link here if it's deployed)*
 
-To run it locally, 
+---
 
-1) Clone this project by git clone <link>
+## ✨ Features
 
-2) Do npm install --legacy-peer-deps
+- 📋 View detailed car cards fetched from a **free mock API** provided by [freetestapi.com](https://freetestapi.com/)
+- 🔍 Filter cars by:
+  - **Price**
+  - **Make**
+  - **Model**
+  - **Fuel Type**
+  - **Horsepower**
+- 🛒 Add cars to your **cart**, which is saved using **Local Storage**
+- ⚡ Built with **Next.js** for fast performance and clean structure
 
-3) Do npm run dev
+---
 
-4) on localhost3000 it should be running
+## 🛠️ Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone <repository-link>
