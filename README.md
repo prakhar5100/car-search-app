@@ -3,7 +3,7 @@
 A sleek and simple car listing app built with **Next.js**. Easily browse cars, filter by multiple criteria, and add favorites to your cart — all stored locally on your device.
 
 ### 🔗 Live Demo  
-*(Optional — Add a link here if it's deployed)*
+https://car-search-app-olive.vercel.app/cars
 
 ---
 
@@ -28,4 +28,4 @@ Follow these steps to run the project locally:
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/prakhar5100/car-search-app
